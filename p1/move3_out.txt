@@ -1,0 +1,13 @@
+      All Items:{bed, dog, lamp, couch, chair, poster, guitar, speaker, computer, cat}
+
+          Frank:{bed, dog, lamp}
+           Paul:{bed, couch, chair, poster}
+           Mike:{lamp, guitar, speaker}
+          Larry:{lamp, bed, computer, cat}
+--------------------------------------------------------------------------------------------------------------------
+  Desired Items:{lamp, clock, chair, couch, poster, speaker, computer, microwave, cat, fish, bird, dog, dresser, bed, guitar}
+
+   At Least One:{lamp, guitar, bed, dog, cat, computer, speaker, poster, couch, chair}
+  More Than One:{lamp, bed}
+    Exactly One:{chair, guitar, dog, cat, computer, speaker, poster, couch}
+        Missing:{clock, dresser, bird, fish, microwave}

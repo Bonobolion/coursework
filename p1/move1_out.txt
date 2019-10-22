@@ -1,0 +1,11 @@
+      All Items:{bed, dog, lamp, guitar, computer}
+
+           Bill:{bed, dog}
+        Michael:{lamp, guitar, bed, computer}
+------------------------------------------------------------------
+  Desired Items:{lamp, computer, cat, dog, bed, guitar}
+
+   At Least One:{lamp, guitar, bed, dog, computer}
+  More Than One:{bed}
+    Exactly One:{lamp, guitar, dog, computer}
+        Missing:{cat}

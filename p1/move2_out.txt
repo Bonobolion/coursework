@@ -1,0 +1,11 @@
+      All Items:{bed, dog, lamp, couch, chair, guitar, speaker, computer, cat}
+
+           Anne:{bed, dog, lamp, couch, chair}
+         Bonnie:{lamp, guitar, speaker, bed, computer, cat}
+----------------------------------------------------------------------------------------------------------
+  Desired Items:{lamp, chair, couch, poster, cat, fish, bird, dog, bed, guitar}
+
+   At Least One:{lamp, guitar, bed, dog, cat, couch, chair}
+  More Than One:{lamp, bed}
+    Exactly One:{chair, guitar, dog, cat, couch}
+        Missing:{poster, bird, fish}

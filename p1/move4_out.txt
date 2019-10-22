@@ -1,0 +1,11 @@
+      All Items:{bed, dog, bird, lamp, guitar, computer}
+
+         Rachel:{bed, dog, bird}
+         Monica:{lamp, guitar, bed, computer}
+----------------------------------------------------------------------------
+  Desired Items:{lamp, dog, bed}
+
+   At Least One:{bed, lamp, dog}
+  More Than One:{bed}
+    Exactly One:{lamp, dog}
+        Missing:

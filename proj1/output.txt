@@ -1,0 +1,1052 @@
+Script started on Wed 29 May 2019 10:49:47 PM CDT
+]0;bbl0032@cse01: ~/proj1bbl0032@cse01:~/proj1$ make
+g++ -std=c++11 -Wall main.cpp
+]0;bbl0032@cse01: ~/proj1bbl0032@cse01:~/proj1$ ./a.out
+Enter first positive integer: 1
+Enter second positive integer: 1
+Multiplication using only ADDITION:
+Product: 1
+Pass 1: 0 seconds 1351 nanoseconds
+Multiplication using only ADDITION:
+Product: 1
+Pass 2: 0 seconds 823 nanoseconds
+Multiplication using only ADDITION:
+Product: 1
+Pass 3: 0 seconds 775 nanoseconds
+Multiplication using only ADDITION:
+Product: 1
+Pass 4: 0 seconds 766 nanoseconds
+Multiplication using only ADDITION:
+Product: 1
+Pass 5: 0 seconds 777 nanoseconds
+Multiplication using only ADDITION:
+Product: 1
+Pass 6: 0 seconds 761 nanoseconds
+Multiplication using only ADDITION:
+Product: 1
+Pass 7: 0 seconds 814 nanoseconds
+Multiplication using only ADDITION:
+Product: 1
+Pass 8: 0 seconds 765 nanoseconds
+Multiplication using only ADDITION:
+Product: 1
+Pass 9: 0 seconds 761 nanoseconds
+Multiplication using only ADDITION:
+Product: 1
+Pass 10: 0 seconds 760 nanoseconds
+Average: 0 seconds 832 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1
+Pass 1: 0 seconds 879 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1
+Pass 2: 0 seconds 822 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1
+Pass 3: 0 seconds 821 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1
+Pass 4: 0 seconds 856 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1
+Pass 5: 0 seconds 757 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1
+Pass 6: 0 seconds 763 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1
+Pass 7: 0 seconds 766 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1
+Pass 8: 0 seconds 763 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1
+Pass 9: 0 seconds 757 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1
+Pass 10: 0 seconds 764 nanoseconds
+Average: 0 seconds 790 nanoseconds
+]0;bbl0032@cse01: ~/proj1bbl0032@cse01:~/proj1$ ./a.out
+Enter first positive integer: 1
+Enter second positive integer: 34
+Multiplication using only ADDITION:
+Product: 34
+Pass 1: 0 seconds 1159 nanoseconds
+Multiplication using only ADDITION:
+Product: 34
+Pass 2: 0 seconds 836 nanoseconds
+Multiplication using only ADDITION:
+Product: 34
+Pass 3: 0 seconds 767 nanoseconds
+Multiplication using only ADDITION:
+Product: 34
+Pass 4: 0 seconds 759 nanoseconds
+Multiplication using only ADDITION:
+Product: 34
+Pass 5: 0 seconds 756 nanoseconds
+Multiplication using only ADDITION:
+Product: 34
+Pass 6: 0 seconds 758 nanoseconds
+Multiplication using only ADDITION:
+Product: 34
+Pass 7: 0 seconds 759 nanoseconds
+Multiplication using only ADDITION:
+Product: 34
+Pass 8: 0 seconds 760 nanoseconds
+Multiplication using only ADDITION:
+Product: 34
+Pass 9: 0 seconds 760 nanoseconds
+Multiplication using only ADDITION:
+Product: 34
+Pass 10: 0 seconds 761 nanoseconds
+Average: 0 seconds 802 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 34
+Pass 1: 0 seconds 830 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 34
+Pass 2: 0 seconds 766 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 34
+Pass 3: 0 seconds 767 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 34
+Pass 4: 0 seconds 768 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 34
+Pass 5: 0 seconds 763 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 34
+Pass 6: 0 seconds 765 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 34
+Pass 7: 0 seconds 764 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 34
+Pass 8: 0 seconds 766 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 34
+Pass 9: 0 seconds 767 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 34
+Pass 10: 0 seconds 763 nanoseconds
+Average: 0 seconds 767 nanoseconds
+]0;bbl0032@cse01: ~/proj1bbl0032@cse01:~/proj1$ ./a.out
+Enter first positive integer: 85
+Enter second positive integer: 4
+Multiplication using only ADDITION:
+Product: 340
+Pass 1: 0 seconds 1416 nanoseconds
+Multiplication using only ADDITION:
+Product: 340
+Pass 2: 0 seconds 867 nanoseconds
+Multiplication using only ADDITION:
+Product: 340
+Pass 3: 0 seconds 776 nanoseconds
+Multiplication using only ADDITION:
+Product: 340
+Pass 4: 0 seconds 771 nanoseconds
+Multiplication using only ADDITION:
+Product: 340
+Pass 5: 0 seconds 775 nanoseconds
+Multiplication using only ADDITION:
+Product: 340
+Pass 6: 0 seconds 2894 nanoseconds
+Multiplication using only ADDITION:
+Product: 340
+Pass 7: 0 seconds 770 nanoseconds
+Multiplication using only ADDITION:
+Product: 340
+Pass 8: 0 seconds 774 nanoseconds
+Multiplication using only ADDITION:
+Product: 340
+Pass 9: 0 seconds 771 nanoseconds
+Multiplication using only ADDITION:
+Product: 340
+Pass 10: 0 seconds 771 nanoseconds
+Average: 0 seconds 1055 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 340
+Pass 1: 0 seconds 4780 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 340
+Pass 2: 0 seconds 774 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 340
+Pass 3: 0 seconds 906 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 340
+Pass 4: 0 seconds 822 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 340
+Pass 5: 0 seconds 820 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 340
+Pass 6: 0 seconds 824 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 340
+Pass 7: 0 seconds 782 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 340
+Pass 8: 0 seconds 780 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 340
+Pass 9: 0 seconds 782 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 340
+Pass 10: 0 seconds 779 nanoseconds
+Average: 0 seconds 1202 nanoseconds
+]0;bbl0032@cse01: ~/proj1bbl0032@cse01:~/proj1$ ./a.out
+Enter first positive integer: 12
+Enter second positive integer: 27
+Multiplication using only ADDITION:
+Product: 324
+Pass 1: 0 seconds 1095 nanoseconds
+Multiplication using only ADDITION:
+Product: 324
+Pass 2: 0 seconds 839 nanoseconds
+Multiplication using only ADDITION:
+Product: 324
+Pass 3: 0 seconds 848 nanoseconds
+Multiplication using only ADDITION:
+Product: 324
+Pass 4: 0 seconds 795 nanoseconds
+Multiplication using only ADDITION:
+Product: 324
+Pass 5: 0 seconds 776 nanoseconds
+Multiplication using only ADDITION:
+Product: 324
+Pass 6: 0 seconds 775 nanoseconds
+Multiplication using only ADDITION:
+Product: 324
+Pass 7: 0 seconds 775 nanoseconds
+Multiplication using only ADDITION:
+Product: 324
+Pass 8: 0 seconds 775 nanoseconds
+Multiplication using only ADDITION:
+Product: 324
+Pass 9: 0 seconds 777 nanoseconds
+Multiplication using only ADDITION:
+Product: 324
+Pass 10: 0 seconds 775 nanoseconds
+Average: 0 seconds 817 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 324
+Pass 1: 0 seconds 840 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 324
+Pass 2: 0 seconds 765 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 324
+Pass 3: 0 seconds 768 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 324
+Pass 4: 0 seconds 766 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 324
+Pass 5: 0 seconds 762 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 324
+Pass 6: 0 seconds 763 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 324
+Pass 7: 0 seconds 764 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 324
+Pass 8: 0 seconds 766 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 324
+Pass 9: 0 seconds 764 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 324
+Pass 10: 0 seconds 767 nanoseconds
+Average: 0 seconds 768 nanoseconds
+]0;bbl0032@cse01: ~/proj1bbl0032@cse01:~/proj1$ ./a.out
+Enter first positive integer: 27891
+Enter second positive integer: 37
+Multiplication using only ADDITION:
+Product: 1031967
+Pass 1: 0 seconds 1399 nanoseconds
+Multiplication using only ADDITION:
+Product: 1031967
+Pass 2: 0 seconds 928 nanoseconds
+Multiplication using only ADDITION:
+Product: 1031967
+Pass 3: 0 seconds 861 nanoseconds
+Multiplication using only ADDITION:
+Product: 1031967
+Pass 4: 0 seconds 836 nanoseconds
+Multiplication using only ADDITION:
+Product: 1031967
+Pass 5: 0 seconds 834 nanoseconds
+Multiplication using only ADDITION:
+Product: 1031967
+Pass 6: 0 seconds 842 nanoseconds
+Multiplication using only ADDITION:
+Product: 1031967
+Pass 7: 0 seconds 834 nanoseconds
+Multiplication using only ADDITION:
+Product: 1031967
+Pass 8: 0 seconds 834 nanoseconds
+Multiplication using only ADDITION:
+Product: 1031967
+Pass 9: 0 seconds 828 nanoseconds
+Multiplication using only ADDITION:
+Product: 1031967
+Pass 10: 0 seconds 834 nanoseconds
+Average: 0 seconds 898 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1031967
+Pass 1: 0 seconds 840 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1031967
+Pass 2: 0 seconds 767 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1031967
+Pass 3: 0 seconds 766 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1031967
+Pass 4: 0 seconds 764 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1031967
+Pass 5: 0 seconds 766 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1031967
+Pass 6: 0 seconds 768 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1031967
+Pass 7: 0 seconds 765 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1031967
+Pass 8: 0 seconds 766 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1031967
+Pass 9: 0 seconds 767 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1031967
+Pass 10: 0 seconds 763 nanoseconds
+Average: 0 seconds 768 nanoseconds
+]0;bbl0032@cse01: ~/proj1bbl0032@cse01:~/proj1$ ./a.out
+Enter first positive integer: 278
+Enter second positive integer: 37
+Multiplication using only ADDITION:
+Product: 10286
+Pass 1: 0 seconds 1280 nanoseconds
+Multiplication using only ADDITION:
+Product: 10286
+Pass 2: 0 seconds 919 nanoseconds
+Multiplication using only ADDITION:
+Product: 10286
+Pass 3: 0 seconds 892 nanoseconds
+Multiplication using only ADDITION:
+Product: 10286
+Pass 4: 0 seconds 850 nanoseconds
+Multiplication using only ADDITION:
+Product: 10286
+Pass 5: 0 seconds 835 nanoseconds
+Multiplication using only ADDITION:
+Product: 10286
+Pass 6: 0 seconds 890 nanoseconds
+Multiplication using only ADDITION:
+Product: 10286
+Pass 7: 0 seconds 903 nanoseconds
+Multiplication using only ADDITION:
+Product: 10286
+Pass 8: 0 seconds 905 nanoseconds
+Multiplication using only ADDITION:
+Product: 10286
+Pass 9: 0 seconds 841 nanoseconds
+Multiplication using only ADDITION:
+Product: 10286
+Pass 10: 0 seconds 847 nanoseconds
+Average: 0 seconds 913 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 10286
+Pass 1: 0 seconds 895 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 10286
+Pass 2: 0 seconds 842 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 10286
+Pass 3: 0 seconds 832 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 10286
+Pass 4: 0 seconds 839 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 10286
+Pass 5: 0 seconds 767 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 10286
+Pass 6: 0 seconds 766 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 10286
+Pass 7: 0 seconds 762 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 10286
+Pass 8: 0 seconds 763 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 10286
+Pass 9: 0 seconds 766 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 10286
+Pass 10: 0 seconds 767 nanoseconds
+Average: 0 seconds 795 nanoseconds
+]0;bbl0032@cse01: ~/proj1bbl0032@cse01:~/proj1$ ./a.out
+Enter first positive integer: 17829
+Enter second positive integer: 37382
+Multiplication using only ADDITION:
+Product: 666483678
+Pass 1: 0 seconds 42254 nanoseconds
+Multiplication using only ADDITION:
+Product: 666483678
+Pass 2: 0 seconds 93678 nanoseconds
+Multiplication using only ADDITION:
+Product: 666483678
+Pass 3: 0 seconds 43195 nanoseconds
+Multiplication using only ADDITION:
+Product: 666483678
+Pass 4: 0 seconds 42481 nanoseconds
+Multiplication using only ADDITION:
+Product: 666483678
+Pass 5: 0 seconds 42743 nanoseconds
+Multiplication using only ADDITION:
+Product: 666483678
+Pass 6: 0 seconds 42744 nanoseconds
+Multiplication using only ADDITION:
+Product: 666483678
+Pass 7: 0 seconds 42743 nanoseconds
+Multiplication using only ADDITION:
+Product: 666483678
+Pass 8: 0 seconds 42737 nanoseconds
+Multiplication using only ADDITION:
+Product: 666483678
+Pass 9: 0 seconds 42735 nanoseconds
+Multiplication using only ADDITION:
+Product: 666483678
+Pass 10: 0 seconds 42998 nanoseconds
+Average: 0 seconds 47826 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 666483678
+Pass 1: 0 seconds 890 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 666483678
+Pass 2: 0 seconds 855 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 666483678
+Pass 3: 0 seconds 786 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 666483678
+Pass 4: 0 seconds 784 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 666483678
+Pass 5: 0 seconds 781 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 666483678
+Pass 6: 0 seconds 784 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 666483678
+Pass 7: 0 seconds 781 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 666483678
+Pass 8: 0 seconds 782 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 666483678
+Pass 9: 0 seconds 781 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 666483678
+Pass 10: 0 seconds 783 nanoseconds
+Average: 0 seconds 798 nanoseconds
+]0;bbl0032@cse01: ~/proj1bbl0032@cse01:~/proj1$ ./a.out
+Enter first positive integer: 272639
+Enter second positive integer: 267
+Multiplication using only ADDITION:
+Product: 72794613
+Pass 1: 0 seconds 1750 nanoseconds
+Multiplication using only ADDITION:
+Product: 72794613
+Pass 2: 0 seconds 1444 nanoseconds
+Multiplication using only ADDITION:
+Product: 72794613
+Pass 3: 0 seconds 1412 nanoseconds
+Multiplication using only ADDITION:
+Product: 72794613
+Pass 4: 0 seconds 1387 nanoseconds
+Multiplication using only ADDITION:
+Product: 72794613
+Pass 5: 0 seconds 1469 nanoseconds
+Multiplication using only ADDITION:
+Product: 72794613
+Pass 6: 0 seconds 1407 nanoseconds
+Multiplication using only ADDITION:
+Product: 72794613
+Pass 7: 0 seconds 1461 nanoseconds
+Multiplication using only ADDITION:
+Product: 72794613
+Pass 8: 0 seconds 1402 nanoseconds
+Multiplication using only ADDITION:
+Product: 72794613
+Pass 9: 0 seconds 1403 nanoseconds
+Multiplication using only ADDITION:
+Product: 72794613
+Pass 10: 0 seconds 1524 nanoseconds
+Average: 0 seconds 1462 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 72794613
+Pass 1: 0 seconds 920 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 72794613
+Pass 2: 0 seconds 872 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 72794613
+Pass 3: 0 seconds 849 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 72794613
+Pass 4: 0 seconds 784 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 72794613
+Pass 5: 0 seconds 779 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 72794613
+Pass 6: 0 seconds 775 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 72794613
+Pass 7: 0 seconds 776 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 72794613
+Pass 8: 0 seconds 773 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 72794613
+Pass 9: 0 seconds 774 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 72794613
+Pass 10: 0 seconds 773 nanoseconds
+Average: 0 seconds 803 nanoseconds
+]0;bbl0032@cse01: ~/proj1bbl0032@cse01:~/proj1$ ./a.out
+Enter first positive integer: 37
+Enter second positive integer: 27
+Multiplication using only ADDITION:
+Product: 999
+Pass 1: 0 seconds 1200 nanoseconds
+Multiplication using only ADDITION:
+Product: 999
+Pass 2: 0 seconds 927 nanoseconds
+Multiplication using only ADDITION:
+Product: 999
+Pass 3: 0 seconds 821 nanoseconds
+Multiplication using only ADDITION:
+Product: 999
+Pass 4: 0 seconds 813 nanoseconds
+Multiplication using only ADDITION:
+Product: 999
+Pass 5: 0 seconds 816 nanoseconds
+Multiplication using only ADDITION:
+Product: 999
+Pass 6: 0 seconds 809 nanoseconds
+Multiplication using only ADDITION:
+Product: 999
+Pass 7: 0 seconds 811 nanoseconds
+Multiplication using only ADDITION:
+Product: 999
+Pass 8: 0 seconds 808 nanoseconds
+Multiplication using only ADDITION:
+Product: 999
+Pass 9: 0 seconds 810 nanoseconds
+Multiplication using only ADDITION:
+Product: 999
+Pass 10: 0 seconds 806 nanoseconds
+Average: 0 seconds 858 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 999
+Pass 1: 0 seconds 840 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 999
+Pass 2: 0 seconds 765 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 999
+Pass 3: 0 seconds 763 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 999
+Pass 4: 0 seconds 764 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 999
+Pass 5: 0 seconds 766 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 999
+Pass 6: 0 seconds 768 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 999
+Pass 7: 0 seconds 765 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 999
+Pass 8: 0 seconds 763 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 999
+Pass 9: 0 seconds 766 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 999
+Pass 10: 0 seconds 765 nanoseconds
+Average: 0 seconds 768 nanoseconds
+]0;bbl0032@cse01: ~/proj1bbl0032@cse01:~/proj1$ ./a.out
+Enter first positive integer: 37802
+Enter second positive integer: 38
+Multiplication using only ADDITION:
+Product: 1436476
+Pass 1: 0 seconds 1324 nanoseconds
+Multiplication using only ADDITION:
+Product: 1436476
+Pass 2: 0 seconds 1016 nanoseconds
+Multiplication using only ADDITION:
+Product: 1436476
+Pass 3: 0 seconds 963 nanoseconds
+Multiplication using only ADDITION:
+Product: 1436476
+Pass 4: 0 seconds 866 nanoseconds
+Multiplication using only ADDITION:
+Product: 1436476
+Pass 5: 0 seconds 848 nanoseconds
+Multiplication using only ADDITION:
+Product: 1436476
+Pass 6: 0 seconds 900 nanoseconds
+Multiplication using only ADDITION:
+Product: 1436476
+Pass 7: 0 seconds 900 nanoseconds
+Multiplication using only ADDITION:
+Product: 1436476
+Pass 8: 0 seconds 925 nanoseconds
+Multiplication using only ADDITION:
+Product: 1436476
+Pass 9: 0 seconds 1072 nanoseconds
+Multiplication using only ADDITION:
+Product: 1436476
+Pass 10: 0 seconds 834 nanoseconds
+Average: 0 seconds 961 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1436476
+Pass 1: 0 seconds 863 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1436476
+Pass 2: 0 seconds 770 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1436476
+Pass 3: 0 seconds 768 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1436476
+Pass 4: 0 seconds 769 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1436476
+Pass 5: 0 seconds 772 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1436476
+Pass 6: 0 seconds 768 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1436476
+Pass 7: 0 seconds 771 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1436476
+Pass 8: 0 seconds 764 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1436476
+Pass 9: 0 seconds 767 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1436476
+Pass 10: 0 seconds 762 nanoseconds
+Average: 0 seconds 773 nanoseconds
+]0;bbl0032@cse01: ~/proj1bbl0032@cse01:~/proj1$ ./a.out
+Enter first positive integer: 3892873
+Enter second positive integer: 7839
+Multiplication using only ADDITION:
+Product: 451460375
+Pass 1: 0 seconds 18805 nanoseconds
+Multiplication using only ADDITION:
+Product: 451460375
+Pass 2: 0 seconds 72173 nanoseconds
+Multiplication using only ADDITION:
+Product: 451460375
+Pass 3: 0 seconds 19238 nanoseconds
+Multiplication using only ADDITION:
+Product: 451460375
+Pass 4: 0 seconds 19218 nanoseconds
+Multiplication using only ADDITION:
+Product: 451460375
+Pass 5: 0 seconds 19222 nanoseconds
+Multiplication using only ADDITION:
+Product: 451460375
+Pass 6: 0 seconds 19219 nanoseconds
+Multiplication using only ADDITION:
+Product: 451460375
+Pass 7: 0 seconds 89780 nanoseconds
+Multiplication using only ADDITION:
+Product: 451460375
+Pass 8: 0 seconds 19268 nanoseconds
+Multiplication using only ADDITION:
+Product: 451460375
+Pass 9: 0 seconds 18345 nanoseconds
+Multiplication using only ADDITION:
+Product: 451460375
+Pass 10: 0 seconds 18437 nanoseconds
+Average: 0 seconds 31365 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 451460375
+Pass 1: 0 seconds 879 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 451460375
+Pass 2: 0 seconds 786 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 451460375
+Pass 3: 0 seconds 780 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 451460375
+Pass 4: 0 seconds 781 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 451460375
+Pass 5: 0 seconds 777 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 451460375
+Pass 6: 0 seconds 783 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 451460375
+Pass 7: 0 seconds 782 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 451460375
+Pass 8: 0 seconds 783 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 451460375
+Pass 9: 0 seconds 782 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 451460375
+Pass 10: 0 seconds 782 nanoseconds
+Average: 0 seconds 788 nanoseconds
+]0;bbl0032@cse01: ~/proj1bbl0032@cse01:~/proj1$ ./a.out
+Enter first positive integer: 37892
+Enter second positive integer: 3780283
+Multiplication using only ADDITION:
+Product: 1508562668
+Pass 1: 0 seconds 139802 nanoseconds
+Multiplication using only ADDITION:
+Product: 1508562668
+Pass 2: 0 seconds 91155 nanoseconds
+Multiplication using only ADDITION:
+Product: 1508562668
+Pass 3: 0 seconds 85791 nanoseconds
+Multiplication using only ADDITION:
+Product: 1508562668
+Pass 4: 0 seconds 85761 nanoseconds
+Multiplication using only ADDITION:
+Product: 1508562668
+Pass 5: 0 seconds 85731 nanoseconds
+Multiplication using only ADDITION:
+Product: 1508562668
+Pass 6: 0 seconds 89996 nanoseconds
+Multiplication using only ADDITION:
+Product: 1508562668
+Pass 7: 0 seconds 89986 nanoseconds
+Multiplication using only ADDITION:
+Product: 1508562668
+Pass 8: 0 seconds 89995 nanoseconds
+Multiplication using only ADDITION:
+Product: 1508562668
+Pass 9: 0 seconds 89997 nanoseconds
+Multiplication using only ADDITION:
+Product: 1508562668
+Pass 10: 0 seconds 85736 nanoseconds
+Average: 0 seconds 93391 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1508562668
+Pass 1: 0 seconds 936 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1508562668
+Pass 2: 0 seconds 844 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1508562668
+Pass 3: 0 seconds 802 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1508562668
+Pass 4: 0 seconds 839 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1508562668
+Pass 5: 0 seconds 799 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1508562668
+Pass 6: 0 seconds 803 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1508562668
+Pass 7: 0 seconds 834 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1508562668
+Pass 8: 0 seconds 800 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1508562668
+Pass 9: 0 seconds 803 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 1508562668
+Pass 10: 0 seconds 834 nanoseconds
+Average: 0 seconds 825 nanoseconds
+]0;bbl0032@cse01: ~/proj1bbl0032@cse01:~/proj1$ ./a.out
+Enter first positive integer: 38
+Enter second positive integer: 378
+Multiplication using only ADDITION:
+Product: 14364
+Pass 1: 0 seconds 1147 nanoseconds
+Multiplication using only ADDITION:
+Product: 14364
+Pass 2: 0 seconds 945 nanoseconds
+Multiplication using only ADDITION:
+Product: 14364
+Pass 3: 0 seconds 854 nanoseconds
+Multiplication using only ADDITION:
+Product: 14364
+Pass 4: 0 seconds 880 nanoseconds
+Multiplication using only ADDITION:
+Product: 14364
+Pass 5: 0 seconds 849 nanoseconds
+Multiplication using only ADDITION:
+Product: 14364
+Pass 6: 0 seconds 849 nanoseconds
+Multiplication using only ADDITION:
+Product: 14364
+Pass 7: 0 seconds 845 nanoseconds
+Multiplication using only ADDITION:
+Product: 14364
+Pass 8: 0 seconds 847 nanoseconds
+Multiplication using only ADDITION:
+Product: 14364
+Pass 9: 0 seconds 850 nanoseconds
+Multiplication using only ADDITION:
+Product: 14364
+Pass 10: 0 seconds 848 nanoseconds
+Average: 0 seconds 886 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 14364
+Pass 1: 0 seconds 928 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 14364
+Pass 2: 0 seconds 805 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 14364
+Pass 3: 0 seconds 782 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 14364
+Pass 4: 0 seconds 782 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 14364
+Pass 5: 0 seconds 829 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 14364
+Pass 6: 0 seconds 828 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 14364
+Pass 7: 0 seconds 824 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 14364
+Pass 8: 0 seconds 829 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 14364
+Pass 9: 0 seconds 785 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 14364
+Pass 10: 0 seconds 785 nanoseconds
+Average: 0 seconds 812 nanoseconds
+]0;bbl0032@cse01: ~/proj1bbl0032@cse01:~/proj1$ ./a.out
+Enter first positive integer: 29098
+Enter second positive integer: 3789278
+Multiplication using only ADDITION:
+Error: Product results in integer overflow.
+]0;bbl0032@cse01: ~/proj1bbl0032@cse01:~/proj1$ ./a.out
+Enter first positive integer: 38
+Enter second positive integer: 3u802
+Multiplication using only ADDITION:
+Product: 114
+Pass 1: 0 seconds 1196 nanoseconds
+Multiplication using only ADDITION:
+Product: 114
+Pass 2: 0 seconds 835 nanoseconds
+Multiplication using only ADDITION:
+Product: 114
+Pass 3: 0 seconds 808 nanoseconds
+Multiplication using only ADDITION:
+Product: 114
+Pass 4: 0 seconds 865 nanoseconds
+Multiplication using only ADDITION:
+Product: 114
+Pass 5: 0 seconds 772 nanoseconds
+Multiplication using only ADDITION:
+Product: 114
+Pass 6: 0 seconds 839 nanoseconds
+Multiplication using only ADDITION:
+Product: 114
+Pass 7: 0 seconds 800 nanoseconds
+Multiplication using only ADDITION:
+Product: 114
+Pass 8: 0 seconds 796 nanoseconds
+Multiplication using only ADDITION:
+Product: 114
+Pass 9: 0 seconds 763 nanoseconds
+Multiplication using only ADDITION:
+Product: 114
+Pass 10: 0 seconds 763 nanoseconds
+Average: 0 seconds 839 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 114
+Pass 1: 0 seconds 847 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 114
+Pass 2: 0 seconds 761 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 114
+Pass 3: 0 seconds 761 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 114
+Pass 4: 0 seconds 761 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 114
+Pass 5: 0 seconds 761 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 114
+Pass 6: 0 seconds 760 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 114
+Pass 7: 0 seconds 760 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 114
+Pass 8: 0 seconds 762 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 114
+Pass 9: 0 seconds 762 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 114
+Pass 10: 0 seconds 757 nanoseconds
+Average: 0 seconds 767 nanoseconds
+]0;bbl0032@cse01: ~/proj1bbl0032@cse01:~/proj1$ ./a.out
+Enter first positive integer: 3802
+Enter second positive integer: 39802
+Multiplication using only ADDITION:
+Product: 151327204
+Pass 1: 0 seconds 9649 nanoseconds
+Multiplication using only ADDITION:
+Product: 151327204
+Pass 2: 0 seconds 9808 nanoseconds
+Multiplication using only ADDITION:
+Product: 151327204
+Pass 3: 0 seconds 9741 nanoseconds
+Multiplication using only ADDITION:
+Product: 151327204
+Pass 4: 0 seconds 9739 nanoseconds
+Multiplication using only ADDITION:
+Product: 151327204
+Pass 5: 0 seconds 9726 nanoseconds
+Multiplication using only ADDITION:
+Product: 151327204
+Pass 6: 0 seconds 9302 nanoseconds
+Multiplication using only ADDITION:
+Product: 151327204
+Pass 7: 0 seconds 9298 nanoseconds
+Multiplication using only ADDITION:
+Product: 151327204
+Pass 8: 0 seconds 9302 nanoseconds
+Multiplication using only ADDITION:
+Product: 151327204
+Pass 9: 0 seconds 9301 nanoseconds
+Multiplication using only ADDITION:
+Product: 151327204
+Pass 10: 0 seconds 9301 nanoseconds
+Average: 0 seconds 9512 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 151327204
+Pass 1: 0 seconds 917 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 151327204
+Pass 2: 0 seconds 840 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 151327204
+Pass 3: 0 seconds 821 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 151327204
+Pass 4: 0 seconds 821 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 151327204
+Pass 5: 0 seconds 811 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 151327204
+Pass 6: 0 seconds 793 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 151327204
+Pass 7: 0 seconds 796 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 151327204
+Pass 8: 0 seconds 796 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 151327204
+Pass 9: 0 seconds 794 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 151327204
+Pass 10: 0 seconds 794 nanoseconds
+Average: 0 seconds 815 nanoseconds
+]0;bbl0032@cse01: ~/proj1bbl0032@cse01:~/proj1$ ./a.out
+Enter first positive integer: 3902983
+Enter second positive integer: 83
+Multiplication using only ADDITION:
+Product: 323947589
+Pass 1: 0 seconds 1391 nanoseconds
+Multiplication using only ADDITION:
+Product: 323947589
+Pass 2: 0 seconds 1009 nanoseconds
+Multiplication using only ADDITION:
+Product: 323947589
+Pass 3: 0 seconds 951 nanoseconds
+Multiplication using only ADDITION:
+Product: 323947589
+Pass 4: 0 seconds 965 nanoseconds
+Multiplication using only ADDITION:
+Product: 323947589
+Pass 5: 0 seconds 936 nanoseconds
+Multiplication using only ADDITION:
+Product: 323947589
+Pass 6: 0 seconds 933 nanoseconds
+Multiplication using only ADDITION:
+Product: 323947589
+Pass 7: 0 seconds 934 nanoseconds
+Multiplication using only ADDITION:
+Product: 323947589
+Pass 8: 0 seconds 936 nanoseconds
+Multiplication using only ADDITION:
+Product: 323947589
+Pass 9: 0 seconds 940 nanoseconds
+Multiplication using only ADDITION:
+Product: 323947589
+Pass 10: 0 seconds 939 nanoseconds
+Average: 0 seconds 989 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 323947589
+Pass 1: 0 seconds 867 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 323947589
+Pass 2: 0 seconds 781 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 323947589
+Pass 3: 0 seconds 770 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 323947589
+Pass 4: 0 seconds 767 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 323947589
+Pass 5: 0 seconds 769 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 323947589
+Pass 6: 0 seconds 772 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 323947589
+Pass 7: 0 seconds 771 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 323947589
+Pass 8: 0 seconds 772 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 323947589
+Pass 9: 0 seconds 771 nanoseconds
+Multiplication using only ADDITION and BIT SHIFTS:
+Product: 323947589
+Pass 10: 0 seconds 767 nanoseconds
+Average: 0 seconds 777 nanoseconds
+]0;bbl0032@cse01: ~/proj1bbl0032@cse01:~/proj1$ exit
+exit
+
+Script done on Wed 29 May 2019 10:51:46 PM CDT

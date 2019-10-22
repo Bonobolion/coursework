@@ -1,0 +1,10 @@
+author: bowen lyons
+title: p3
+
+To run this program simply compile with
+	g++ main.cpp
+and run with either 
+	./a.out
+or with command line ops
+	./a.out <config file name>
+thank you!
